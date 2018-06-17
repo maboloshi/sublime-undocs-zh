@@ -1,0 +1,12 @@
+.ideas
+
+.hgignore
+.hgtags
+
+build
+
+*.sublime-workspace
+
+Thumbs.db
+
+venv/
